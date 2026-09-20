@@ -1,0 +1,23 @@
+# виртуальные окружения
+.venv/
+venv/
+env/
+
+# кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# система
+Thumbs.db
+.DS_Store
+
+# временные
+*.log
